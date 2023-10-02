@@ -1,0 +1,15 @@
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\obj\Debug\net6.0\2nd_task.csproj.AssemblyReference.cache
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\obj\Debug\net6.0\2nd_task.GeneratedMSBuildEditorConfig.editorconfig
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\obj\Debug\net6.0\2nd_task.AssemblyInfoInputs.cache
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\obj\Debug\net6.0\2nd_task.AssemblyInfo.cs
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\obj\Debug\net6.0\2nd_task.csproj.CoreCompileInputs.cache
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\bin\Debug\net6.0\2nd_task.exe
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\bin\Debug\net6.0\2nd_task.deps.json
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\bin\Debug\net6.0\2nd_task.runtimeconfig.json
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\bin\Debug\net6.0\2nd_task.dll
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\bin\Debug\net6.0\2nd_task.pdb
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\obj\Debug\net6.0\2nd_task.dll
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\obj\Debug\net6.0\refint\2nd_task.dll
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\obj\Debug\net6.0\2nd_task.pdb
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\obj\Debug\net6.0\2nd_task.genruntimeconfig.cache
+W:\Docs\GB\VS_code\C#\Smnr_#2\2nd_task\obj\Debug\net6.0\ref\2nd_task.dll
