@@ -4,12 +4,19 @@
 //1 -> нет
 
 Console.Write("Привет! Эта показывает, является ли выбранный день выходным! Введи цифру дня недели: ");
-int num = Convert.ToInt32(Console.Read());
-if (num > 5)
+int num = Convert.ToInt32(Console.ReadLine());
+if (num > 7 || num < 1)
 {
-    Console.WriteLine(" -> да");
+    Console.WriteLine("Введен несуществующий день недели! Запустите программу заново!");
 }
 else
 {
-    Console.WriteLine(" -> нет");
+    if (num > 5)
+    {
+        Console.WriteLine(" -> да");
+    }
+    else
+    {
+        Console.WriteLine(" -> нет");
+    }
 }
